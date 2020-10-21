@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10c0bf3e-034c-4f06-9cb9-ba25e00642e6" name="Default Changelist" comment="" />
+    <list default="true" id="0bf0a6d4-5b94-40ad-bb9c-79a1c89658ad" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,170 +21,57 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1iM26SHTt1BDyPKb9u2yP9KeKdG" />
+  <component name="ProjectId" id="1jBjSJn5HG0Yz0zwbiz7TfIkD7G" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="181" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.DictionaryApplication (1)">
-    <configuration name="DictionaryApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A.DictionaryApplication" />
-      <module name="Tu Dien 1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="DictionaryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DictionaryApplication" />
-      <module name="Tu Dien 1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DictionaryApppplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DictionaryApppplication" />
-      <module name="Tu Dien 1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DictionaryCommandLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A.DictionaryCommandLine" />
-      <module name="Tu Dien 1" />
+      <option name="MAIN_CLASS_NAME" value="A.DictionaryApplication" />
+      <module name="Tu dien 3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="A.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JFrame1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JFrame1" />
-      <module name="Tu Dien 1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DictionaryApplication (1)" />
-        <item itemvalue="Application.DictionaryCommandLine" />
         <item itemvalue="Application.DictionaryApplication" />
-        <item itemvalue="Application.DictionaryApppplication" />
-        <item itemvalue="Application.JFrame1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="10c0bf3e-034c-4f06-9cb9-ba25e00642e6" name="Default Changelist" comment="" />
-      <created>1601702966713</created>
+      <changelist id="0bf0a6d4-5b94-40ad-bb9c-79a1c89658ad" name="Default Changelist" comment="" />
+      <created>1603284379434</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601702966713</updated>
+      <updated>1603284379434</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="395" y="91" key="#Inspections" timestamp="1602293633353">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1603284619408">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1602293633353" />
-    <state x="249" y="0" key="#Project_Structure" timestamp="1602689911923">
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1603284619408" />
+    <state x="473" y="154" key="FileChooserDialogImpl" timestamp="1603284616342">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1602689911923" />
-    <state x="549" y="76" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form" timestamp="1602147562990">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="76" key="#com.intellij.codeInsight.i18n.I18nizeQuickFixDialog_Form/0.0.1536.824@0.0.1536.824" timestamp="1602147562990" />
-    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1601817158389">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1601817158389" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602164580824">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602164580824" />
-    <state x="473" y="154" key="FileChooserDialogImpl" timestamp="1602689908670">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602689908670" />
-    <state width="1493" height="143" key="GridCell.Tab.0.bottom" timestamp="1602690039603">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602690039603" />
-    <state width="1493" height="143" key="GridCell.Tab.0.center" timestamp="1602690039603">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602690039603" />
-    <state width="1493" height="143" key="GridCell.Tab.0.left" timestamp="1602690039603">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602690039603" />
-    <state width="1493" height="143" key="GridCell.Tab.0.right" timestamp="1602690039603">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602690039603" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1601878423656">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601878423656" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1601878423656">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601878423656" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1601878423656">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601878423656" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1601878423656">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601878423656" />
-    <state x="306" y="148" width="923" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602347806555">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="306" y="148" width="923" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1602347806555" />
-    <state x="209" y="33" key="new project wizard" timestamp="1602348425658">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1602348425658" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/B/DictionaryApppplication.java</url>
-          <line>45</line>
-          <properties class="B.DictionaryApplication">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.util.NoSuchElementException" package="java.util" />
-          <option name="timeStamp" value="2" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="473" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603284616342" />
   </component>
 </project>
